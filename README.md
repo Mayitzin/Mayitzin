@@ -1,6 +1,6 @@
 ### Hi reader 👋
 
-I'm Mario, a Mexican Engineer based in Munich, Germany, who plays with sensors, code, and some times artistic creations (although Science is art, isn't it?)
+I'm Mario, an Engineer based in Munich, Germany, who plays with sensors, code, and some times artistic creations (although Science is art, isn't it?)
 
 Open Source is the way to go, and I will try to support it one way or another.
 
