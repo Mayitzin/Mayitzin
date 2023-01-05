@@ -17,4 +17,8 @@ Learning...
 - :love_you_gesture: German Sign Language.
 - :taco: Mexican Cuisine.
 
-You can write me in Spanish, English, or German (and maybe Dutch). And if you're in town, hit me up for a chat and a drink in a Biergarten.
+You can write me in Spanish, English, or German (and maybe Dutch). And if you're in town, hit me up for a drink in a Biergarten.
+
+[![Twitter: Mayitzin](https://img.shields.io/twitter/follow/Mayitzin?style=social)](https://twitter.com/Mayitzin)
+[![Linkedin: MarioGC](https://img.shields.io/badge/-MarioGarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariogarciacruz/)](https://www.linkedin.com/in/mariogarciacruz/)
+[![GitHub Mayitzin](https://img.shields.io/github/followers/mayitzin?label=follow&style=social)](https://github.com/mayitzin)
